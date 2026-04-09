@@ -5,5 +5,4 @@ Performed data cleaning on Airbnb NYC 2019 dataset.
 - Removed price outliers
 - Verified no duplicate records
 - Standardized room_type column
-- 
 Tools used: Python, Pandas, NumPy, Seaborn, Matplotlib
